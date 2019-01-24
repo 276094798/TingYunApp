@@ -10,6 +10,4 @@
   * [操作体验分析](yong-hu-ti-yan-fen-xi/cao-zuo-ti-yan-fen-xi.md)
   * [页面体验分析](yong-hu-ti-yan-fen-xi/ye-mian-ti-yan-fen-xi.md)
   * [可视化命名](yong-hu-ti-yan-fen-xi/ye-mian-ke-shi-hua-pei-zhi.md)
-  * [可视化命名](yong-hu-ti-yan-fen-xi/ke-shi-hua-ye-mian-pei-zhi/README.md)
-    * [可视化操作命名](yong-hu-ti-yan-fen-xi/ke-shi-hua-ye-mian-pei-zhi/cao-zuo-ke-shi-hua-pei-zhi.md)
 
